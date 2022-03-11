@@ -6,7 +6,7 @@ UNIX and Shell  Programming Lab
 
    ###    `Man` :- It is the interface used to view the system's reference manuals.
           
-   ### Syntax :- man [command name]
+   #### Syntax :- man [command name]
      
  ![man](https://user-images.githubusercontent.com/90957128/157859321-2db7604d-cdaf-4c75-8ee8-69fea131f3fc.png)
 
