@@ -1,8 +1,8 @@
 # UNIX-commands
 UNIX and Shell  Programming Lab
-## Basics commands
 
 ### 1.  `ls`
+
    ###   `ls` :- List directory Contents.
    
    ![ls](https://user-images.githubusercontent.com/90957128/157810608-56d463af-d1d2-4263-b286-02cb3cec3e55.png)
