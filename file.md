@@ -13,7 +13,7 @@ UNIX and Shell  Programming Lab
      
    ###              (i)  `cat > file.txt` :-  It creates file.txt and allow us to insert content for this file.
       
-  ###### _After inserting content you can use ctrl+c to exit the file._
+  ####    _After inserting content you can use ctrl+c to exit the file._
   
    ![file](https://user-images.githubusercontent.com/90957128/157871091-3ac644d8-9e11-4f7f-95b9-fe7095d4ff73.png)
 
