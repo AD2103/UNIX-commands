@@ -9,7 +9,7 @@ UNIX and Shell  Programming Lab
    
    ###     Syntax --- 
    
-   ###              (i)  `cal -1` :- Display only the current month. This is the default..
+   ###              (i)  `cal -1` :- Display only the current month. This is the default.
    
    ![cal1](https://user-images.githubusercontent.com/90957128/157836859-0bb5c0d6-1bd3-4dfe-9b08-e8e1125dd84e.png)
 
