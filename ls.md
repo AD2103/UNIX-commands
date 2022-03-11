@@ -1,29 +1,28 @@
 # UNIX-commands
 UNIX and Shell  Programming Lab
 ## Basics commands
-### 1.  `pwd`
-   ###    `pwd` :- print name of current/working directory.
-     
-   ![pwd](https://user-images.githubusercontent.com/90957128/157801256-bbbf9ee2-b185-4dce-a73f-11edb7e708de.png)
 
-
-### 2.  `cd`
-   ###   `cd` :- Change current/working directory.
+### 1.  `ls`
+   ###   `ls` :- List directory Contents.
+   
+   ![ls](https://user-images.githubusercontent.com/90957128/157810608-56d463af-d1d2-4263-b286-02cb3cec3e55.png)
+   
    ###     Syntax ---
-   ###              (i)  `cd ..` :- Change current/working directory to parent  directory.
+   ###              (i)  `ls -l` :- To show long listing information about the file/directory.
    
-   ![cd](https://user-images.githubusercontent.com/90957128/157807937-96a35134-5e0e-4db9-9a34-8abaa976837e.png)
+   ![ls1](https://user-images.githubusercontent.com/90957128/157810905-ec4d082a-6023-404f-a0d3-75e474575554.png)
 
-   ###              (ii)  `cd ~`  :- Move to users home Directory from anywhere.
+   ###              (ii)  `ls -a ~`  :- List all files including hidden file stsrtind with '.'.
    
-   ![cd2](https://user-images.githubusercontent.com/90957128/157808005-c203f833-ebcd-4aa1-969b-965b3d441b24.png)
+   ![ls2](https://user-images.githubusercontent.com/90957128/157812503-802a7174-7e2f-40eb-8a15-3e2f49efbc9a.png)
 
-   ###              (iii)  `cd Downloads` :- Change current/working directory to Downloads directory.
+   ###              (iii)  `ls -r` :- List in reverse order.
    
-   ![cd3](https://user-images.githubusercontent.com/90957128/157808067-f9d7f103-73c2-4283-9820-5acd842eefab.png)
+  ![ls3](https://user-images.githubusercontent.com/90957128/157813013-21676fbf-9a83-4739-ad8a-3ee9a5576b40.png)
+
+   ###              (iv)  `ls -t` :- Sort by time & date.
    
-   ###              (iv)  `cd ../Document` :- If we are currently in /home/username/Downloads then we would be placed in /home/username/Document.
-   
-   ![cd4](https://user-images.githubusercontent.com/90957128/157808219-2727feb8-b6a0-4b5e-8c28-a63878b947a5.png)
+   ![ls4](https://user-images.githubusercontent.com/90957128/157813884-dfa809d3-4b9b-47dd-9631-7a029e3e4fd4.png)
+
 
   
