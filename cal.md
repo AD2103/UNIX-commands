@@ -7,7 +7,7 @@ UNIX and Shell  Programming Lab
    
    ![cal](https://user-images.githubusercontent.com/90957128/157815938-7c9bfdfd-ab76-4ab3-a8ba-15132922686b.png)
    
-   ###     Syntax --- cal [[[ day] month] year]
+   ###     Syntax --- 
    
    ###              (i)  `cal -1` :- Display only the current month. This is the default..
    
