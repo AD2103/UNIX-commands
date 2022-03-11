@@ -22,3 +22,7 @@ UNIX and Shell  Programming Lab
    
    ![cd3](https://user-images.githubusercontent.com/90957128/157805426-cc42cbe8-f675-4191-a0ce-4b05dec43ed3.png)
    
+   ###              (iv)  `cd ../Document` :- If we are currently in /home/username/Downloads then we would be placed in /home/username/Document.
+   
+   ![cd4](https://user-images.githubusercontent.com/90957128/157807018-aea0c676-7a52-4f84-b749-a1f8167b3666.png)
+  
