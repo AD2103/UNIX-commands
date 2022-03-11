@@ -12,7 +12,7 @@ UNIX and Shell  Programming Lab
    
    ![ls1](https://user-images.githubusercontent.com/90957128/157810905-ec4d082a-6023-404f-a0d3-75e474575554.png)
 
-   ###              (ii)  `ls -a ~`  :- List all files including hidden file stsrtind with '.'.
+   ###              (ii)  `ls -a`  :- List all files including hidden file stsrtind with '.'.
    
    ![ls2](https://user-images.githubusercontent.com/90957128/157812503-802a7174-7e2f-40eb-8a15-3e2f49efbc9a.png)
 
