@@ -26,7 +26,7 @@ UNIX and Shell  Programming Lab
    ![file2](https://user-images.githubusercontent.com/90957128/157872372-ed10428d-5a98-4480-b29c-270dfee9b36e.png)
    
    ###              (iv)  `cat file.txt ad.txt > combinefile.txt` :- It will concatenate the contents of file.txt and ad.txt and write them to combinefile.txt using the (>) operator .
-   ######       If combinefile.txt does not exist the command will create it otherwise it will overwrite the file.
+   ####        If combinefile.txt does not exist the command will create it otherwise it will overwrite the file.
    
    ![file3](https://user-images.githubusercontent.com/90957128/157874732-1942f223-f09f-4519-819a-d270ada3b6e8.png)
 
