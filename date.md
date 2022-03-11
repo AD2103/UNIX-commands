@@ -52,6 +52,6 @@ UNIX and Shell  Programming Lab
    ###              (xiv)  `date +%S` :- time in second (00..60).
    
    
-   ###              (xv)  `date +%P` :- locale's equivalent of either AM or PM;.
+   ###              (xv)  `date +%P` :- locale's equivalent of either AM or PM.
   
   ![date15](https://user-images.githubusercontent.com/90957128/157843019-bb55e7a5-e0f6-43df-b942-fc07824f4ee9.png)
