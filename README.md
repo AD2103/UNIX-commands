@@ -11,5 +11,6 @@ UNIX and Shell  Programming Lab
    ###    **cd** :- Change current/working directory.
    ### Syntax ---
    ###  (i)  **cd ..** :- Change current/working directory to parent  directory.
-  
-![CD1](https://user-images.githubusercontent.com/90957128/157803537-cd0f813d-8af2-4725-9d49-c155a935d98e.png)
+   
+  ![cd](https://user-images.githubusercontent.com/90957128/157803781-06697a31-83b1-4c65-8349-0109d3ec1d0d.png)
+
