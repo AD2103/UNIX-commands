@@ -15,6 +15,10 @@ UNIX and Shell  Programming Lab
 
    ###   `clear` :- Clear the terminal screen.
 
-  • If you take a detailed look after running the clear command, you'll find that it doesn't really clear the terminal. The tool just shifts the text upwards, out of the viewable area.
+   • If you take a detailed look after running the clear command, you'll find that it doesn't really clear the terminal. The tool just shifts the text upwards, out      of the viewable area.
    
    ### Syntax :- clear
+
+   ![clear](https://user-images.githubusercontent.com/90957128/157861334-efaa9e1a-9358-4de4-a32e-b00005a1e956.png)
+   
+   
