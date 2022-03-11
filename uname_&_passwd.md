@@ -31,4 +31,5 @@ UNIX and Shell  Programming Lab
    
    ###     Syntax ---passwd [option] [username]
    
-   ![passwd](https://user-images.githubusercontent.com/90957128/157908400-d64217e9-9532-4352-be4c-afab2e4450e1.png)
+   ![passwd](https://user-images.githubusercontent.com/90957128/157909052-242a9623-17cc-4fc8-bf9d-49c8b9eab942.png)
+
