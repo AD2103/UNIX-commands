@@ -17,7 +17,7 @@ UNIX and Shell  Programming Lab
 
    ###              (ii)  `rm -d`  :- Remove empty directories.
    
-   
+   ![rm2](https://user-images.githubusercontent.com/90957128/158013938-a7842e11-f335-48f9-8cb4-ea32d21a376f.png)
 
    ###              (iii)  `rm -r` :- Remove directories and their contents recursively.
    
