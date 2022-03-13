@@ -22,6 +22,7 @@ UNIX and Shell  Programming Lab
     
    ![mkdir3](https://user-images.githubusercontent.com/90957128/157913840-ec9cab34-d097-4172-93f4-72e870ab9634.png)
 
+
    
   
 ### 2.  `rmdir`
